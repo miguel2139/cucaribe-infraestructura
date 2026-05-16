@@ -134,11 +134,7 @@ Las imágenes `.ova` de las VMs están disponibles en:
 
 ---
 
-## 📸 Capturas de Pantalla
 
-> *(Agrega aquí capturas de las VMs funcionando: Joomla corriendo, ping entre máquinas, reglas de firewall activas, etc.)*
-
----
 
 ## 👤 Autor
 
