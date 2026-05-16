@@ -132,9 +132,6 @@ Las imágenes `.ova` de las VMs están disponibles en:
     └── informe-tecnico.pdf  # Documentación completa del proyecto
 ```
 
----
-
-
 
 ## 👤 Autor
 
