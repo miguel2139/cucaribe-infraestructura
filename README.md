@@ -106,9 +106,9 @@ ls configs/
 
 ### 3. Importar las máquinas virtuales
 Las imágenes `.ova` de las VMs están disponibles en:  
-📦 [Google Drive — VMs CUCARIBE](https://drive.google.com/tu-enlace-aqui)
+📦 [MEGA — VMs CUCARIBE](https://mega.nz/file/P8gmhICY#HehyPJ1vseG7omvJQBEVjxeSvM37O1LVL6ZaaL_xSo8)
 
-> **Nota:** Las VMs pesan varios GB. Se recomienda descargarlas directamente desde el enlace de Drive.
+> **Nota:** Las VMs pesan varios GB. Se recomienda descargarlas directamente desde el enlace de MEGA.
 
 ---
 
